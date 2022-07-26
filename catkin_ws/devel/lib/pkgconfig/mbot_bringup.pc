@@ -1,0 +1,8 @@
+prefix=/home/lenovo/catkin_ws/devel
+
+Name: mbot_bringup
+Description: Description of mbot_bringup
+Version: 0.0.0
+Cflags: -I/home/lenovo/catkin_ws/src/mbot_bringup/include
+Libs: -L${prefix}/lib 
+Requires: 

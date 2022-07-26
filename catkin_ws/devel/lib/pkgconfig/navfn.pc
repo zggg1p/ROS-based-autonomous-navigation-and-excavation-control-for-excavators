@@ -1,0 +1,8 @@
+prefix=/home/lenovo/catkin_ws/devel
+
+Name: navfn
+Description: Description of navfn
+Version: 1.16.7
+Cflags: -I/home/lenovo/catkin_ws/devel/include -I/home/lenovo/catkin_ws/src/navigation-melodic-devel/navfn/include
+Libs: -L${prefix}/lib -lnavfn
+Requires: geometry_msgs message_runtime nav_core nav_msgs pluginlib roscpp sensor_msgs visualization_msgs

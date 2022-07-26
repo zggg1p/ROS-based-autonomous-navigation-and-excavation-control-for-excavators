@@ -1,0 +1,8 @@
+prefix=/home/lenovo/catkin_ws/devel
+
+Name: carrot_planner
+Description: Description of carrot_planner
+Version: 1.16.7
+Cflags: -I/home/lenovo/catkin_ws/src/navigation-melodic-devel/carrot_planner/include
+Libs: -L${prefix}/lib -lcarrot_planner
+Requires: base_local_planner costmap_2d nav_core pluginlib roscpp tf2 tf2_ros

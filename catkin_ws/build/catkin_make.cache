@@ -1,0 +1,2 @@
+LIO-SAM-master:controller_manager:mbot_navigation:mbot_teleop:pudong:pudong_gazebo:pudong_moveit:velodyne_description:velodyne_gazebo_plugins:velodyne_simulator
+-DCATKIN_DEVEL_PREFIX=/home/lenovo/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/lenovo/catkin_ws/install -G Unix Makefiles

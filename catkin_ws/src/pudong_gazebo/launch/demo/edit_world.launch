@@ -1,0 +1,6 @@
+<launch>
+  <include file="$(find gazebo_ros)/launch/empty_world.launch">
+
+    <arg name="world_name" value="$(find pudong_gazebo)/world/shijing/1.world"/>
+  </include>
+</launch>

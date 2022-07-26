@@ -1,0 +1,8 @@
+prefix=/home/lenovo/catkin_ws/devel
+
+Name: global_planner
+Description: Description of global_planner
+Version: 1.16.7
+Cflags: -I/home/lenovo/catkin_ws/devel/include -I/home/lenovo/catkin_ws/src/navigation-melodic-devel/global_planner/include
+Libs: -L${prefix}/lib -lglobal_planner
+Requires: costmap_2d dynamic_reconfigure geometry_msgs nav_core navfn nav_msgs pluginlib roscpp tf2_ros

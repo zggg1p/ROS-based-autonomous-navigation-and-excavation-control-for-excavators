@@ -1,0 +1,9 @@
+/home/lenovo/catkin_ws/install/_setup_util.py
+/home/lenovo/catkin_ws/install/env.sh
+/home/lenovo/catkin_ws/install/setup.bash
+/home/lenovo/catkin_ws/install/local_setup.bash
+/home/lenovo/catkin_ws/install/setup.sh
+/home/lenovo/catkin_ws/install/local_setup.sh
+/home/lenovo/catkin_ws/install/setup.zsh
+/home/lenovo/catkin_ws/install/local_setup.zsh
+/home/lenovo/catkin_ws/install/.rosinstall

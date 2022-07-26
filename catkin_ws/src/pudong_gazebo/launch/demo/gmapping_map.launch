@@ -1,0 +1,12 @@
+<launch>
+
+  <include file="$(find pudong_gazebo)/launch/rviz_slam.launch">
+  </include>
+
+  <include file="$(find pudong_gazebo)/launch/pointcloud_to_laserscan.launch">
+  </include>
+
+  <include file="$(find pudong_nav)/launch/gmapping.launch">
+  </include>
+
+</launch>

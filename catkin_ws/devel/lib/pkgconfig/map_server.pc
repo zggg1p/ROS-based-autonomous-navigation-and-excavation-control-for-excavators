@@ -1,0 +1,8 @@
+prefix=/home/lenovo/catkin_ws/devel
+
+Name: map_server
+Description: Description of map_server
+Version: 1.16.7
+Cflags: -I/home/lenovo/catkin_ws/src/navigation-melodic-devel/map_server/include
+Libs: -L${prefix}/lib -lmap_server_image_loader
+Requires: roscpp nav_msgs tf2

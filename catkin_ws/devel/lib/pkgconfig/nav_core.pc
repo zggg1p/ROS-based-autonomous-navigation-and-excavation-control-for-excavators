@@ -1,0 +1,8 @@
+prefix=/home/lenovo/catkin_ws/devel
+
+Name: nav_core
+Description: Description of nav_core
+Version: 1.16.7
+Cflags: -I/home/lenovo/catkin_ws/src/navigation-melodic-devel/nav_core/include
+Libs: -L${prefix}/lib 
+Requires: std_msgs geometry_msgs tf2_ros costmap_2d

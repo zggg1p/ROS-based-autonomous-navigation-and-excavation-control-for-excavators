@@ -1,0 +1,8 @@
+prefix=/home/lenovo/catkin_ws/devel
+
+Name: controller_manager
+Description: Description of controller_manager
+Version: 0.18.4
+Cflags: -I/home/lenovo/catkin_ws/src/controller_manager/include
+Libs: -L${prefix}/lib -lcontroller_manager
+Requires: controller_interface controller_manager_msgs hardware_interface pluginlib roscpp

@@ -1,0 +1,16 @@
+<launch>
+
+
+  <!--#############################################-->
+  <!--### Pointcloud to Laserscan node ###-->
+  <!--#############################################-->
+  <include file="$(find pudong_gazebo)/launch/pointcloud_to_laserscan.launch">
+  </include>
+
+  <!--#############################################-->
+  <!--### Navigation based on map node ###-->
+  <!--#############################################-->
+  <include file="$(find pudong_nav)/launch/2d_navigation.launch">
+  </include>
+
+</launch>

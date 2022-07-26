@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: pudong_gazebo
+    relative_path: urdf/pudong_gazebo.urdf.xacro
+    xacro_args: ""
+  SRDF:
+    relative_path: config/wagen.srdf
+  CONFIG:
+    author_name: yxh
+    author_email: 12138@qq.com
+    generated_timestamp: 1638963024

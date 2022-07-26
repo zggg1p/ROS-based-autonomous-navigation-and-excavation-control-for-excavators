@@ -1,0 +1,8 @@
+prefix=/home/lenovo/catkin_ws/install
+
+Name: pudong_moveit
+Description: Description of pudong_moveit
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

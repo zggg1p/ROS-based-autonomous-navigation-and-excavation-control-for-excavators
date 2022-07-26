@@ -1,0 +1,8 @@
+prefix=/home/lenovo/catkin_ws/install
+
+Name: rotate_recovery
+Description: Description of rotate_recovery
+Version: 1.16.7
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lrotate_recovery
+Requires: costmap_2d geometry_msgs nav_core pluginlib roscpp tf2 tf2_ros

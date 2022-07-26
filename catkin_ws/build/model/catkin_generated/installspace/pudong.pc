@@ -1,0 +1,8 @@
+prefix=/home/lenovo/catkin_ws/install
+
+Name: pudong
+Description: Description of pudong
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
